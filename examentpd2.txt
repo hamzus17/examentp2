@@ -1,0 +1,6 @@
+la branche master est la branche de code source principale
+une partie modifiee de code source est sur la branche master
+modifieeeeeeeee
+ddddddd
+=======
+branche examen d2 est la branche des fonctins
